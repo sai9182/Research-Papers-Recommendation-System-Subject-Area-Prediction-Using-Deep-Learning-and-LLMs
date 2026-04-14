@@ -1,0 +1,2 @@
+# Research-Papers-Recommendation-System-Subject-Area-Prediction-Using-Deep-Learning-and-LLMs
+The Research Papers Recommendation System and Subject Area Prediction project is an intelligent platform that helps researchers, students, and academicians discover relevant research papers and automatically classify them into appropriate subject domains.  This system leverages advanced techniques from Deep Learning and Natural Language Processing 
